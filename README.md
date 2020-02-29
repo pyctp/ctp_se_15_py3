@@ -15,6 +15,8 @@ CTP版本：MdApi().GetApiVersion(), TraderApi().GetApiVersion()
 linux 64位 python 2.7.16 64位,测试通过。
 windows 64位, python 2.7.16 64 位，测试通过。
 
+New: Linux下python 3.7.4, 64位, 编译通过。
+
 如果linux下获取信息遇到权限问题，用下面命令：
 
 sudo chmod o+r  /sys/firmware/dmi/tables/smbios_entry_point
