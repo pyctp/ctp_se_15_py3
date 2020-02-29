@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d5c78cb-b68b-48e9-9c14-3ea3d7421af6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ctp/MdApi.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ctp/MdApi.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ctp15/MdApi.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ctp15/MdApi.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctpmdtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctpmdtest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ctpmdtest.py.bak" beforeDir="false" afterPath="$PROJECT_DIR$/ctpmdtest.py.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_sewing_machine.config" beforeDir="false" afterPath="$PROJECT_DIR$/data_sewing_machine.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_sewing_machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_sewing_machine.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/test$dict_obj.coverage" NAME="dict_obj Coverage Results" MODIFIED="1581861447172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$getInstrumentsFromJsonFile.coverage" NAME="getInstrumentsFromJsonFile Coverage Results" MODIFIED="1581864691928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$bardl.coverage" NAME="bardl Coverage Results" MODIFIED="1581865319455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tqsdk_data" />
+    <SUITE FILE_PATH="coverage/test$getInstrumentsFromFile.coverage" NAME="getInstrumentsFromFile Coverage Results" MODIFIED="1581864569256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$ctptdtest.coverage" NAME="ctptdtest Coverage Results" MODIFIED="1581859270584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>to_str</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>to_bytes</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="660" />
+    <option name="y" value="72" />
+    <option name="width" value="2802" />
+    <option name="height" value="1884" />
+  </component>
+  <component name="ProjectId" id="1YTy47dL2p75Y4hOSNKiec1DLIy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.ctpmdtest">
+    <configuration name="bardl" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tqsdk_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tqsdk_data/bardl.py" />
+      <option name="PARAMETERS" value="-n pp2005 -g 60" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ctpmdtest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ctpmdtest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ctptdtest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ctptdtest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getInstrumentsFromFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\ctplrn\ctp_se_15\test\getInstrumentsFromJsonFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getInstrumentsFromJsonFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getInstrumentsFromJsonFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.getInstrumentsFromFile" />
+      <item itemvalue="Python.getInstrumentsFromJsonFile" />
+      <item itemvalue="Python.bardl" />
+      <item itemvalue="Python.ctpmdtest" />
+      <item itemvalue="Python.ctptdtest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ctpmdtest" />
+        <item itemvalue="Python.ctptdtest" />
+        <item itemvalue="Python.bardl" />
+        <item itemvalue="Python.getInstrumentsFromJsonFile" />
+        <item itemvalue="Python.getInstrumentsFromFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d5c78cb-b68b-48e9-9c14-3ea3d7421af6" name="Default Changelist" comment="" />
+      <created>1581852691018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581852691018</updated>
+      <workItem from="1582980687180" duration="411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="965" y="535" key="FileChooserDialogImpl" timestamp="1582980734633">
+      <screen x="0" y="0" width="2560" height="1563" />
+    </state>
+    <state x="965" y="535" key="FileChooserDialogImpl/0.0.2560.1563@0.0.2560.1563" timestamp="1582980734633" />
+    <state width="2484" height="699" key="GridCell.Tab.0.bottom" timestamp="1582981247421">
+      <screen x="0" y="0" width="2560" height="1563" />
+    </state>
+    <state width="2484" height="699" key="GridCell.Tab.0.bottom/0.0.2560.1563@0.0.2560.1563" timestamp="1582981247421" />
+    <state width="2484" height="699" key="GridCell.Tab.0.center" timestamp="1582981247419">
+      <screen x="0" y="0" width="2560" height="1563" />
+    </state>
+    <state width="2484" height="699" key="GridCell.Tab.0.center/0.0.2560.1563@0.0.2560.1563" timestamp="1582981247419" />
+    <state width="2484" height="699" key="GridCell.Tab.0.left" timestamp="1582981247418">
+      <screen x="0" y="0" width="2560" height="1563" />
+    </state>
+    <state width="2484" height="699" key="GridCell.Tab.0.left/0.0.2560.1563@0.0.2560.1563" timestamp="1582981247418" />
+    <state width="2484" height="699" key="GridCell.Tab.0.right" timestamp="1582981247420">
+      <screen x="0" y="0" width="2560" height="1563" />
+    </state>
+    <state width="2484" height="699" key="GridCell.Tab.0.right/0.0.2560.1563@0.0.2560.1563" timestamp="1582981247420" />
+    <state width="2484" height="699" key="GridCell.Tab.1.bottom" timestamp="1582981237619">
+      <screen x="0" y="0" width="2560" height="1563" />
+    </state>
+    <state width="2484" height="699" key="GridCell.Tab.1.bottom/0.0.2560.1563@0.0.2560.1563" timestamp="1582981237618" />
+    <state width="2484" height="699" key="GridCell.Tab.1.center" timestamp="1582981237615">
+      <screen x="0" y="0" width="2560" height="1563" />
+    </state>
+    <state width="2484" height="699" key="GridCell.Tab.1.center/0.0.2560.1563@0.0.2560.1563" timestamp="1582981237615" />
+    <state width="2484" height="699" key="GridCell.Tab.1.left" timestamp="1582981237614">
+      <screen x="0" y="0" width="2560" height="1563" />
+    </state>
+    <state width="2484" height="699" key="GridCell.Tab.1.left/0.0.2560.1563@0.0.2560.1563" timestamp="1582981237614" />
+    <state width="2484" height="699" key="GridCell.Tab.1.right" timestamp="1582981237616">
+      <screen x="0" y="0" width="2560" height="1563" />
+    </state>
+    <state width="2484" height="699" key="GridCell.Tab.1.right/0.0.2560.1563@0.0.2560.1563" timestamp="1582981237616" />
+    <state x="724" y="411" width="1106" height="743" key="SettingsEditor" timestamp="1582980749738">
+      <screen x="0" y="0" width="2560" height="1563" />
+    </state>
+    <state x="724" y="411" width="1106" height="743" key="SettingsEditor/0.0.2560.1563@0.0.2560.1563" timestamp="1582980749738" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ctptdtest.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ctptdtest.py</url>
+          <line>556</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ctptdtest.py</url>
+          <line>553</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/getInstrumentsFromJsonFile.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/getInstrumentsFromJsonFile.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/getInstrumentsFromJsonFile.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/getInstrumentsFromJsonFile.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/getInstrumentsFromJsonFile.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tqsdk_data/bardl.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tqsdk_data/bardl.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ctpmdtest.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_sewing_machine.py</url>
+          <line>246</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_sewing_machine.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ctpmdtest.py</url>
+          <line>135</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test$ctptdtest.coverage" NAME="ctptdtest Coverage Results" MODIFIED="1582981205556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$ctpmdtest.coverage" NAME="ctpmdtest Coverage Results" MODIFIED="1582981236519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
