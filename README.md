@@ -30,3 +30,4 @@ sudo chmod o+r /sys/firmware/dmi/tables/DMI
 api 测试程序 已经移到 test 目录下面。
 
 new：支持python 3.7.4， 64位的版本单独起了一个新仓库，ctp_se_15_py3, 已经编译通过。
+注意： python3 里面 socks 需要用 bytes ，所以需要把所有关于 socks 的数据都转换成 bytes,这一点比较麻烦。
